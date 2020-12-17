@@ -1,1 +1,5 @@
-print("tarun aditya is happy")
+a=input("is tarun aditya is happy?")
+if input=="yes":
+	print("good")
+else:
+	print("bad")
